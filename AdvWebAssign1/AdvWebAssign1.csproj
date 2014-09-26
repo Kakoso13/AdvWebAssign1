@@ -67,8 +67,35 @@
   <ItemGroup>
     <Content Include="about.html" />
     <Content Include="contact.html" />
+    <Content Include="css\StyleSheet.css" />
     <Content Include="github.html" />
+    <Content Include="images\bedge_grunge_%402X.png" />
+    <Content Include="images\congruent_pentagon.png" />
+    <Content Include="images\diamond.svg" />
+    <Content Include="images\facebookLogo.png" />
+    <Content Include="images\globe.png" />
+    <Content Include="images\googleplusLogo.png" />
+    <Content Include="images\GreenLogo.jpg" />
+    <Content Include="images\hello-world.png" />
+    <Content Include="images\hexabump_%402X.png" />
+    <Content Include="images\img3.jpg" />
+    <Content Include="images\javaImage1.png" />
+    <Content Include="images\linkedinLogo.png" />
+    <Content Include="images\polaroid_%402X.png" />
+    <Content Include="images\retina_wood.png" />
+    <Content Include="images\rsz_aboutmeslide2.jpg" />
+    <Content Include="images\rsz_contactus.jpg" />
+    <Content Include="images\rsz_project.jpg" />
+    <Content Include="images\rsz_slide1.jpg" />
+    <Content Include="images\rsz_slide3.jpg" />
+    <Content Include="images\Screen Shot 2014-09-25 at 1.00.21 AM.png" />
+    <Content Include="images\twitterLogo.png" />
+    <Content Include="images\youtube-circle.png" />
     <Content Include="index.html" />
+    <Content Include="js\bullet.png" />
+    <Content Include="js\js-image-slider.css" />
+    <Content Include="js\js-image-slider.js" />
+    <Content Include="js\loading.gif" />
     <Content Include="project.html" />
     <Content Include="services.html" />
     <Content Include="Web.config" />
@@ -76,11 +103,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="css\" />
-    <Folder Include="images\" />
-    <Folder Include="js\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
