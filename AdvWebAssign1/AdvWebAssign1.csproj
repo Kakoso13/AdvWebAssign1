@@ -77,6 +77,7 @@
     <Content Include="images\globe.png" />
     <Content Include="images\googleplusLogo.png" />
     <Content Include="images\GreenLogo.jpg" />
+    <Content Include="images\greetings.png" />
     <Content Include="images\hello-world.png" />
     <Content Include="images\hexabump_%402X.png" />
     <Content Include="images\img3.jpg" />
