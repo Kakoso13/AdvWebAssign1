@@ -69,6 +69,7 @@
     <Content Include="contact.html" />
     <Content Include="css\StyleSheet.css" />
     <Content Include="github.html" />
+    <Content Include="images\agsquare_%402X.png" />
     <Content Include="images\bedge_grunge_%402X.png" />
     <Content Include="images\congruent_pentagon.png" />
     <Content Include="images\diamond.svg" />
