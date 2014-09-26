@@ -140,6 +140,7 @@ ul li img {
 .headerLogoClass{
 	float: left !important;
 	margin-left: 10% !important;
+    height: 125px;
 }
 .globefooter{
 	width: 182px !important;
