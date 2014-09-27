@@ -1,10 +1,24 @@
-﻿body {
+﻿/*  Author:     Cassio Acherman
+    Student ID: 200267816
+    Class:      Advanced Web Assignemnt 1 - Portfolio Website
+    Purpose:    This assignemnt has as purpose to build our portfolio in a website, with all sort of informations
+    */ 
+
+/*
+    This is the main Style sheet file. It contain all the style from the entire website.
+*/
+
+
+/*This sets the the entire body*/
+body {
   	background-image:url(../images/retina_wood.png);
 	background-repeat:repeat;
     font-family: Verdana, Tahoma, Arial, sans-serif;
     font-size: 18px;
     overflow: auto;
 }
+
+/*This sets all the titles */
 h1, h2, h3{
     text-align: center;
     padding-left: 5%;
@@ -14,6 +28,7 @@ p {
     padding: 2%;
     color: #2538a5;
 }
+/*This sets standards dimensions for all images in the site*/
 img{
     text-align: center;
     max-width: 100%;
@@ -25,8 +40,7 @@ img{
     margin: 0 auto;
     max-width:1020px;
     width: 98%;
-/*    background: #FEFBE8;
-*/  
+
     background-image:url(../images/agsquare_@2X.png);
 	background-repeat:repeat;
     border: 1px solid #878E63;
@@ -36,7 +50,6 @@ img{
 #callout {
     width: 100%;
     height: auto;
-    /*background: #878E63;*/
 	background-image:url(../images/hexabump_@2X.png);
 	background-repeat:repeat;
     overflow: hidden;
@@ -67,6 +80,7 @@ nav ul li {
     border: 1px solid #CCC;
     width: 15%;
 }
+/*This sets the style from the navigation bar*/
 nav ul li a {
     background-image:url(../images/hexabump_@2X.png);
 	background-repeat:repeat;
@@ -78,6 +92,7 @@ nav ul li a {
     text-decoration: none;
     text-align: center;
 }
+/*This sets the hover style on the navigation bar*/
 nav ul li a:hover, nav ul li.active a{
     background-color: #CCC;
     color: #FFF;
@@ -115,7 +130,6 @@ nav ul li a:hover, nav ul li.active a{
     text-align: center;
 }
 footer {
-    /*background: #878E63;*/
 	background-image:url(../images/hexabump_@2X.png);
 	background-repeat:repeat;
     width: 100%;
@@ -157,6 +171,7 @@ ul li img {
 	
 /*---Media starts here---*/
 
+/*This sets new standars from smaller devices like cellphones*/
 @media screen and (max-width: 478px) {
     body{
         font-size: 13px;
@@ -171,6 +186,8 @@ ul li img {
        top: 2px;
        right: -42px;
 }
+
+/*This sets new standards from medium devices like tablets*/
 @media screen and (max-width: 740px) {
  
     nav{

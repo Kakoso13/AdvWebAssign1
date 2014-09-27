@@ -106,10 +106,10 @@
     <Content Include="images\youtube-circle.png" />
     <Content Include="images\youtubeChannel.png" />
     <Content Include="index.html" />
-    <Content Include="js\bullet.png" />
-    <Content Include="js\js-image-slider.css" />
+    <Content Include="css\bullet.png" />
+    <Content Include="css\js-image-slider.css" />
     <Content Include="js\js-image-slider.js" />
-    <Content Include="js\loading.gif" />
+    <Content Include="css\loading.gif" />
     <Content Include="project.html" />
     <Content Include="services.html" />
     <Content Include="Web.config" />
