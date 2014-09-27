@@ -71,6 +71,7 @@
     <Content Include="github.html" />
     <Content Include="images\agsquare_%402X.png" />
     <Content Include="images\bedge_grunge_%402X.png" />
+    <Content Include="images\cmsProj.png" />
     <Content Include="images\congruent_pentagon.png" />
     <Content Include="images\contactMe.jpg" />
     <Content Include="images\diamond.svg" />
@@ -88,7 +89,11 @@
     <Content Include="images\mainLogo4.png" />
     <Content Include="images\mainLogo5.png" />
     <Content Include="images\partnership.png" />
+    <Content Include="images\phpandcss.png" />
     <Content Include="images\polaroid_%402X.png" />
+    <Content Include="images\proj2Thumb.png" />
+    <Content Include="images\projectManager.png" />
+    <Content Include="images\projThumb.jpg" />
     <Content Include="images\retina_wood.png" />
     <Content Include="images\rsz_aboutmeslide2.jpg" />
     <Content Include="images\rsz_contactus.jpg" />
