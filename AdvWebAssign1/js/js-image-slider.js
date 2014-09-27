@@ -1,4 +1,8 @@
-var sliderOptions=
+/* http://www.menucool.com */
+
+/*This script file i donwloaded from the internet*/
+
+var sliderOptions =
 {
 	sliderId: "slider",
 	startSlide: 0,
